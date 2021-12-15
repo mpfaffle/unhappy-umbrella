@@ -1,0 +1,51 @@
+state,state_abbr,voter_guide,VG_Y/N
+alabama,AL,1,Yes
+alaska,AK,1,Yes
+arizona,AZ,1,Yes
+arkansas,AR,1,Yes
+california,CA,1,Yes
+colorado,CO,1,Yes
+connecticut,CT,1,Yes
+delaware,DE,0,No
+florida,FL,0,No
+georgia,GA,1,Yes
+hawaii,HI,1,Yes
+idaho,ID,1,Yes
+illinois,IL,1,Yes
+indiana,IN,1,Yes
+iowa,IA,1,Yes
+kansas,KS,1,Yes
+kentucky,KY,1,Yes
+louisiana,LA,1,Yes
+maine,ME,1,Yes
+maryland,MD,1,Yes
+massachusetts,MA,1,Yes
+michigan,MI,1,Yes
+minnesota,MN,1,Yes
+mississippi,MS,1,Yes
+missouri,MO,1,Yes
+montana,MT,1,Yes
+nebraska,NE,1,Yes
+nevada,NV,1,Yes
+new hampshire,NH,0,No
+new jersey,NJ,0,No
+new mexico,NM,1,Yes
+new york,NY,1,Yes
+north carolina,NC,1,Yes
+north dakota,ND,0,No
+ohio,OH,1,Yes
+oklahoma,OK,1,Yes
+oregon,OR,1,Yes
+pennsylvania,PA,1,Yes
+rhode island,RI,1,Yes
+south carolina,SC,1,Yes
+south dakota,SD,1,Yes
+tennessee,TN,1,Yes
+texas,TX,1,Yes
+utah,UT,1,Yes
+vermont,VT,1,Yes
+virginia,VA,1,Yes
+washington,WA,1,Yes
+west virginia,WV,1,Yes
+wisconsin,WI,1,Yes
+wyoming,WY,1,Yes

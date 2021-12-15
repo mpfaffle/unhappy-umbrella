@@ -1,0 +1,49 @@
+State,state,ballot_language,ballot_lang,explanation,expl,fiscale_statement,fiscal,pros_cons,pro_con,has_text,text,language_avail,mult_lang,langs,totals
+Alabama,alabama,1,Yes,1,Yes,0,No,0,No,0,No,English,No,0,2
+Arizona,arizona,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish",Yes,1,6
+Arkansas,arkansas,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+California,california,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, Vietnamese",Yes,1,6
+Colorado,colorado,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish",Yes,1,6
+Connecticut,connecticut,1,Yes,1,Yes,0,No,0,No,1,Yes,"English, Spanish",Yes,1,4
+Delaware,delaware,0,No,0,No,0,No,0,No,0,No,,No,0,0
+Florida,florida,0,No,0,No,0,No,0,No,0,No,"English, Spanish",Yes,1,1
+Georgia,georgia,1,Yes,1,Yes,0,No,0,No,1,Yes,English,No,0,3
+Idaho,idaho,1,Yes,1,Yes,0,No,1,Yes,0,No,English,No,0,3
+Illinois,illinois,1,Yes,0,No,0,No,1,Yes,1,Yes,"English, Chinese, Hindi, Polish, Spanish, and Braille",Yes,1,4
+Indiana,indiana,1,Yes,0,No,0,No,0,No,0,No,English,No,0,1
+Iowa,iowa,1,Yes,0,No,0,No,0,No,0,No,English,No,0,1
+Kansas,kansas,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+Kentucky,kentucky,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+Louisiana,louisiana,1,Yes,1,Yes,0,No,0,No,0,No,English,No,0,2
+Massachusetts,massachusetts,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish, Chinese, Khmer",Yes,1,6
+Maryland,maryland,1,Yes,1,Yes,0,No,0,No,0,No,English,No,0,2
+Maine,maine,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,English,No,0,5
+Michigan,michigan,1,Yes,0,No,0,No,0,No,0,No,English,No,0,1
+Minnesota,minnesota,1,Yes,0,No,0,No,1,Yes,1,Yes,English,No,0,3
+Mississippi,mississippi,1,Yes,1,Yes,1,Yes,1,Yes,0,No,English,No,0,4
+Missouri,missouri,1,Yes,1,Yes,0,No,0,No,1,Yes,English,No,0,3
+Montana,montana,1,Yes,0,No,0,No,1,Yes,1,Yes,English,No,0,3
+Nebraska,nebraska,1,Yes,0,No,0,No,1,Yes,1,Yes,English,No,0,3
+Nevada,nevada,1,Yes,1,Yes,1,Yes,1,Yes,0,No,English,No,0,4
+New Hampshire,new hampshire,0,No,0,No,0,No,0,No,0,No,,No,0,0
+New Jersey,new jersey,0,No,0,No,0,No,0,No,0,No,"English, Spanish, Gujarati, Korean",Yes,1,1
+New Mexico,new mexico,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish",Yes,1,6
+New York,new york,1,Yes,1,Yes,0,No,0,No,1,Yes,"English, Spanish, Chinese, Korean, Bengali",Yes,1,4
+North Carolina,north carolina,1,Yes,1,Yes,0,No,0,No,0,No,English,No,0,2
+North Dakota,north dakota,0,No,0,No,0,No,0,No,1,Yes,English,No,0,1
+Ohio,ohio,1,Yes,0,No,0,No,1,Yes,1,Yes,English,No,0,3
+Oklahoma,oklahoma,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+Oregon,oregon,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,English and Spanish,Yes,1,6
+Pennsylvania,pennsylvania,1,Yes,1,Yes,0,No,0,No,1,Yes,English,No,0,3
+Rhode Island,rhode island,1,Yes,1,Yes,0,No,0,No,1,Yes,English,No,0,3
+South Carolina,south carolina,1,Yes,0,No,0,No,0,No,0,No,,No,0,1
+South Dakota,south dakota,1,Yes,1,Yes,1,Yes,1,Yes,0,No,English,No,0,4
+Tennessee,tennessee,1,Yes,0,No,0,No,0,No,0,No,English,No,0,1
+Texas,texas,1,Yes,1,Yes,0,No,0,No,0,No,English and Spanish,Yes,1,3
+Utah,utah,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,English,No,0,5
+Vermont,vermont,1,Yes,0,No,0,No,0,No,0,No,English,No,0,1
+Virginia,virginia,1,Yes,1,Yes,0,No,0,No,1,Yes,English,No,0,3
+Washington,washington,1,Yes,1,Yes,1,Yes,1,Yes,1,Yes,"English, Spanish, Chinese, Vietnamese, Audio, and Video",Yes,1,6
+West Virginia,west virginia,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+Wisconsin,wisconsin,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
+Wyoming,wyoming,1,Yes,0,No,0,No,0,No,1,Yes,English,No,0,2
